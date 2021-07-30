@@ -85,7 +85,7 @@ de las peliculas.
 
 ###############################################################################
 
-#### Pagina 2 Filmaffinity - integrante: Hector Arrue (grupo 7)
+## Pagina 2 Filmaffinity - integrante: Hector Arrue (grupo 7)
 
 # FILMAFFINITY
 
@@ -133,6 +133,51 @@ Las reviews, como lo dice su nombre es la cantidad de reviews que los usuarios d
 En conclusion, filmaffinity es una pagina amigable y su uso es bastante facil para la mayoria de los usuarios que quisieran saber mas sobre que peliculas podrian ver, un punto debil de esta pagina, es que las notas no son otorgado por personas expertas en cine, si no que son otorgados por los mimos usuarios, por lo cual el peso del top de estas peliculas no tendria tanto peso en comparacion con otras medidas de distintas paginas.
 Por otro lado tambien se pueden obtener dentro de la misma pagina web top por cada pais, de peliculas, series u otros interes al gusto del usuario.
 
+###############################################################################
+
+## Pagina 3 RottenTomatoes - integrante: Jeremias Silva (grupo 7)
+
+Esta página es ampliamente conocida por los fanáticos del cine y de las producciones de TV, sobretodo por su "tomatometro", el cual consiste en un porcentaje que certifica cuán fresca ("fresh") o cuán podrida ("rotten") es una película o serie, según las críticas de expertos dedicados de Estados Unidos y de el mundo. 
+	   
+Desde esta página se quiso recoger información sobre cuáles son las mejores películas de la historia, donde se pudo encontrar un ranking de las "100 mejores películas de todos los tiempos" en un apartado. Lo anterior, con motivo de comparar este ranking y el o los primeros deciles con otros rankings de páginas similares con críticas de expertos o de los mismos fans, para averiguar cómo varían los títulos en estos "top", cuánto varían las calificaciones entre sitios y ver la variabilidad entre las preferencias de críticos expertos y la audiencia o los fans. 
+	   
+Finalmente, desde esta página se pudo extraer una base de datos con este top 100 de títulos, sus respectivos links, la calificación de los críticos (en %) y el número de "reviews" por cada película.
+
+
+###############################################################################
+
+#### Conclusiones en conjunto
+
+Independiente de los resultados de las paginas, en relacion al posicionamiento 
+de los titulos, ya sea ranking de cual es la mejor pelicula o en terminos de 
+popularidad, no significa que una pelicula o pieza audiovisual sea mejor o
+peor que otra, simplemente las paginas utilizan criterios distintos, como por 
+mencionar un ejemplo, algunas paginas usan criticas especializadas y otras 
+criticas o reviews de usuarios suscritos a las paginas. 
+
+Complementariamente, los distintos rankings pueden ir variando, por las notas 
+de las peliculas, por que a los usuarios le gusto un actor/actriz que aparece
+en la cinta, la pelicula genera distintas sensaciones y expectativas para cada 
+individuo, la pelicula es una secuela, en fin, podemos mencionar muchos ejemplos
+de distintos criterios que pueden llegar a afectar los distintos rankings que 
+ofrecen estas paginas. De este modo no podemos concluir que, una pagina es 
+mejor que otra, o mas en especifico, que una pelicula sea mejor o peor que otra 
+solo por que aparece en el listado de estas paginas.
+
+Se puede apreciar ademas, en el top 10 de peliculas en las distinas paginas, que
+existen variaciones tanto en las posiciones en el ranking, como en las calificaciones
+otorgadas. Principalmente este fenomeno se debe a que cada una de las paginas
+usa distintos criterios de evaluacion, una utiliza las reviews de los mismos 
+usuarios de la pagina, otra recopila la critica especializada, alguna realizan
+una combinancion de ambos.
+
+Ademas, identificamos que en el top 10 de mejores peliculas, muchas peliculas
+son de años anteriores al año 2000, infiriendo que quizas la calidad de imagen y 
+efectos especiales (por mencionar algunos elementos en relacion a la tecnologia) 
+no afectan para nada en la puntuacion que las peliculas puedan llegar a tener,
+valorando mas elementos como el argumento, la actuacion, la trama de las mismas
+por mencionar algunos elementos que no tienen relacion con la tecnologia y 
+tecnicas de esos años.
 
 
 
