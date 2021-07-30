@@ -2,11 +2,15 @@
 
 #Scraping de las paginas escogidas y análisis de las mismas.
 
-En el siguiente READme, se analizaran las siguientes paginas:
+**En el siguiente READme, se analizaran las siguientes paginas:**
 
 1. [imdb](https://www.imdb.com/ "imdb")
 2. [filmaffinity](https://www.filmaffinity.com/cl/main.html "filmaffinity")
 3. [rottentomatoes](https://www.rottentomatoes.com/ "rottentomatoes")
+
+*En las cuales prentendemos realizar analisis de las peliculas que se encuentran
+en el ranking que ofrecen estas distintas paginas, en especifico, el top 10 de
+cada ranking.*
 
 ## Pagina 1 imdb.com - integrante: Juan Pablo Faúndez (grupo 7)
 
