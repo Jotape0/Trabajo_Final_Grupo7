@@ -2,6 +2,12 @@
 
 #Scraping de las paginas escogidas y análisis de las mismas.
 
+En el siguiente READme, se analizaran las siguientes paginas:
+
+1. [imdb](https://www.imdb.com/ "imdb")
+2. [filmaffinity](https://www.filmaffinity.com/cl/main.html "filmaffinity")
+3. [rottentomatoes](https://www.rottentomatoes.com/ "rottentomatoes")
+
 ## Pagina 1 imdb.com - integrante: Juan Pablo Faúndez (grupo 7)
 
 
